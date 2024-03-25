@@ -1,0 +1,143 @@
+/* /* table tr,th ,td {
+  width: 100px;
+  padding: 100px;
+  height: 100px;
+  background-color:  blue;
+color: aliceblue;
+
+} */
+/* .styled-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+}
+
+.styled-table th, .styled-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.styled-table th {
+  background-color: #f2f2f2;
+}
+
+.styled-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.styled-table tr:hover {
+  background-color: #ddd;
+}
+
+.table-image {
+  width: 50px;
+  height: 50px;
+} */
+/* Basic table styling */
+
+
+
+
+
+
+
+/* 
+idr sy comment kia ha
+.table-container {
+  width: 100%;
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 8px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+  width: 75vw;
+  left: 12.5%;
+  right: 12.5%;
+}
+
+ */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .h1{text-align: center 10px;}
+ .form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+}
+
+table {
+  width: 75%; /* Adjust the width as needed */
+  border-collapse: collapse;
+  margin: 0 auto; /* Center the table horizontally within the form-container */
+}
+
+th, td {
+  padding: 8px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+/* Style for images inside the table */
+.form-container img {
+  border-radius: 50%; /* Make the image round */
+  overflow: hidden; /* Hide any overflow content (if necessary) */
+  width: 50px; /* Set the width of the image */
+  height: 50px; /* Set the height of the image */
+}
